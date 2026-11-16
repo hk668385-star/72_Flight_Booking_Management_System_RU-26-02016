@@ -26,7 +26,7 @@ Project Structure
 
 - "main.py" – Main application.
 - "flights.csv" – Flight information.
--"Testcase" - screenshots.
+- "Testcase" - screenshots.
 
 How to Run
 

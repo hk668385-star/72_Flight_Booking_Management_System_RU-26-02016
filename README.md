@@ -24,7 +24,7 @@ Technologies Used
 
 Project Structure
 
-- "main.py" – Main application.
+- "main.py" – Main application/code.
 - "flights.csv" – Flight information.
 - "Testcase" - screenshots.
 
